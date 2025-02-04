@@ -26,11 +26,18 @@
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" height="250" alt="Coding GIF"/>
 
-- 💻 **Desarrollador Web** apasionado por crear soluciones innovadoras  
-- 🎓 **Titulado en DAW y DAM**  
-- 🔧 Me encanta optimizar aplicaciones web para un mejor rendimiento  
-- 🌍 Abierto a oportunidades internacionales y remotas  
-- ⚡ Fuera del código, disfruto de la música y los videojuegos  
+Soy un **Desarrollador Junior** especializado en aplicaciones web y móviles, con experiencia en **Kotlin, C#, PHP, Laravel y WordPress**. Me apasiona crear soluciones funcionales e intuitivas, aprovechando herramientas como **Android Studio** y **Visual Studio 2022** para agilizar el desarrollo.
+
+Me considero un **desarrollador motivado y en constante aprendizaje**, enfocado en el **desarrollo multiplataforma**, el **diseño de interfaces** intuitivas y la **exploración de la inteligencia artificial**. Disfruto **descubrir nuevas tecnologías**, manejar herramientas de IA y optimizar procesos para lograr soluciones innovadoras.
+
+Algunos datos más sobre mí:
+- 💻 Me gusta **optimizar aplicaciones web** para un mejor rendimiento.  
+- 🌍 Abierto a oportunidades internacionales y remotas.  
+- ⚡ Fuera del código, soy fan de la música, los videojuegos y la creatividad en general.  
+- 🎯 **Objetivos**:  
+  - Dominar frameworks modernos (frontend y backend).  
+  - Aportar valor en proyectos Open Source y comunidades de desarrolladores.  
+  - Seguir creciendo en entornos ágiles e innovadores.
 
 <br/>
 
@@ -50,7 +57,7 @@
 ## 🎓 Formación
 
 - **IES DOCTOR BALMIS (2020 - 2022)**  
-  Técnico en Sistemas Microinformáticos y Redes
+  Técnico en Sistemas Microinformáticos y Redes.
 
 - **IG FORMACIÓN (2022 - 2025)**  
   - Desarrollo de Aplicaciones Web (2022 - 2024)  
@@ -62,9 +69,10 @@
 
 <p align="center">
   <!-- Íconos con skillicons.dev (puedes añadir/quitar según tus skills) -->
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,angular,docker,nginx,bootstrap,java,kotlin,wordpress,github,ubuntu&perline=6" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,java,kotlin,c,wordpress,vscode,androidstudio,github,bootstrap,ubuntu&perline=6" />
 </p>
 
+> *Puedes editar la lista de iconos según tus herramientas favoritas. [Ver más opciones aquí](https://skillicons.dev)*
 
 ---
 
@@ -87,7 +95,6 @@
   <!-- Stats Generales -->
   <img src="https://github-readme-stats.vercel.app/api?username=markwang-junior&show_icons=true&theme=radical&include_all_commits=true" width="48%" alt="GitHub Stats"/>
   
-<div align="center">
   <!-- Lenguajes Más Usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markwang-junior&layout=compact&theme=radical" width="40%" alt="Top Languages">
 </div>
@@ -129,4 +136,5 @@ Configuración de contenedores **Docker** con **Nginx**.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=markwang-junior&color=blueviolet" alt="Profile Views"/>
 </p>
+
 

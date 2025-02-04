@@ -28,7 +28,7 @@
 
 Soy un **Desarrollador Junior** especializado en aplicaciones web y móviles, con experiencia en **Kotlin, C#, PHP, Laravel  WordPress javascript**. Me apasiona crear soluciones funcionales e intuitivas, aprovechando herramientas como **Android Studio** y **Visual Studio 2022** para agilizar el desarrollo.
 
-Me considero un **desarrollador motivado y en constante aprendizaje**, enfocado en el **desarrollo multiplataforma**, el **diseño de interfaces** intuitivas y la **exploración de la inteligencia artificial**. Disfruto **descubrir nuevas tecnologías**, manejar herramientas de IA y optimizar procesos para lograr soluciones innovadoras.
+Me considero un **desarrollador motivado y en constante aprendizaje  con una gran capacidad de organización y compromiso. Siempre busco anticiparme a los plazos, entregando mis tareas antes de las fechas establecidas**, enfocado en el **desarrollo multiplataforma**, el **diseño de interfaces** intuitivas y la **exploración de la inteligencia artificial**. Disfruto **descubrir nuevas tecnologías**, manejar herramientas de IA y optimizar procesos para lograr soluciones innovadoras.
 
 Algunos datos más sobre mí:
 - 💻 Me gusta **optimizar aplicaciones web** para un mejor rendimiento.  

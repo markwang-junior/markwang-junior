@@ -1,99 +1,88 @@
-<!-- Encabezado o Banner -->
+# 👋 ¡Hola, soy Mark Wang! 
+
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=Mark%20Wang&fontSize=80&fontAlignY=35&animation=twinkling" width="100%"/>
+</div>
+
+<!-- Typing Subtitle -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/230768443-72bf4807-d5d8-4dfd-b0c5-6ed7f8c4fe07.png" alt="Banner con tu mensaje" width="100%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70737&center=true&width=435&lines=Full+Stack+Web+Developer;PHP+%7C+Angular+%7C+Laravel+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- Presentación principal -->
-<h1 align="center">¡Hola, soy Mark Wang! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-
-<p align="center">
-  Desarrollador Web | PHP | HTML5 | CSS3 | JavaScript
-</p>
-
+<!-- Social Badges with Animations -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mark-wang-junior/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&animation=fadeIn" alt="LinkedIn"/>
   </a>
   <a href="mailto:tuemail@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-important?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=pulse" alt="Email"/>
   </a>
 </p>
 
----
+## 🚀 Sobre Mí
 
-## ✨ Sobre Mí
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" height="250"/>
 
-- 👨‍💻 Me apasiona crear y optimizar aplicaciones web.
-- 🌱 Actualmente aprendiendo **Angular** y profundizando en **Laravel**.
-- ⚡ Disfruto colaborando en proyectos Open Source y participando en comunidades de desarrolladores.
-- 📍 Desde Alicante, pero abierto a oportunidades remotas o internacionales.
+- 💻 **Desarrollador Web** apasionado por crear soluciones innovadoras
+- 🎓 **Titulado en DAW y DAM**
+- 🌱 Actualmente profundizando en **Angular** y **Laravel**
+- 🔧 Especialista en optimización de aplicaciones web
+- 🌍 Abierto a oportunidades internacionales y remotas
 
----
+## 🛠️ Tecnologías y Herramientas
 
-## ⚙️ Tecnologías y Herramientas
-
-<p align="left">
-  <!-- PHP -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <!-- Laravel -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <!-- Angular -->
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <!-- Docker -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <!-- Nginx -->
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-</p>
-
----
-
-## 📂 Proyectos Destacados
-
-1. [**tiendaonline2024**](https://github.com/markwang-junior/tiendaonline2024)  
-   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP Badge"/>  
-   _Aplicación web para venta de móviles. Usé XAMPP para entorno local, PhpMyAdmin para la base de datos y un front sencillo en HTML/CSS._
-
-2. [**mi-angular-app**](https://github.com/markwang-junior/mi-angular-app)  
-   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular Badge"/>  
-   _Proyecto simple con Angular para gestión de usuarios y consumo de API, aplicando buenas prácticas de estructura de módulos._
-
-3. [**custom_nginx**](https://github.com/markwang-junior/custom_nginx)  
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker Badge"/>  
-   _Configuración personalizada de contenedores Docker con Nginx para alojar múltiples proyectos en local._
-
-> *Más proyectos en [mis repositorios](https://github.com/markwang-junior?tab=repositories). ¡Échales un vistazo!*
-
----
-
-## 📈 Estadísticas de GitHub
-
-<!-- Tarjeta con estadísticas generales -->
+<!-- Tech Stack with Hover Effects -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markwang-junior&show_icons=true&theme=radical" alt="Mark's GitHub stats" width="48%"/>
-  
-  <!-- Tarjeta con lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markwang-junior&layout=compact&theme=radical" alt="Mark's Top Languages" width="40%"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,angular,docker,nginx&perline=4" />
 </p>
 
----
+## 📊 Mis Estadísticas de GitHub
 
-## 🤝 Cómo Contactarme
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=markwang-junior&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
-- **LinkedIn**: [Mark Wang](https://www.linkedin.com/in/mark-wang-junior/)  
-- **Email**: tuemail@ejemplo.com  
-- **Website / Portfolio**: (próximamente)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=markwang-junior&show_icons=true&theme=radical&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markwang-junior&theme=radical" width="48%" alt="GitHub Streak"/>
+</div>
+
+## 🔥 Proyectos Destacados
+
+<!-- Snake Game Contribution Graph -->
+![Snake Contribution Graph](https://raw.githubusercontent.com/markwang-junior/markwang-junior/output/github-contribution-grid-snake.svg)
+
+### 1. 🛍️ [tiendaonline2024](https://github.com/markwang-junior/tiendaonline2024)
+Aplicación web de venta de móviles con PHP y XAMPP
+
+### 2. 🅰️ [mi-angular-app](https://github.com/markwang-junior/mi-angular-app)
+Gestión de usuarios con Angular y consumo de API
+
+### 3. 🐳 [custom_nginx](https://github.com/markwang-junior/custom_nginx)
+Configuración de contenedores Docker con Nginx
+
+## 📫 Contáctame
 
 <p align="center">
-  <em>¡Gracias por visitar mi perfil!<br/>
-  Siéntete libre de explorar mis repos o contactarme para colaborar en proyectos interesantes.</em>
+  <a href="https://www.linkedin.com/in/mark-wang-junior/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tuemail@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=markwang-junior&color=blueviolet" alt="Profile Views"/>
+</p>
 
 <!--
 **markwang-junior/markwang-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -72,7 +72,6 @@ Algunos datos más sobre mí:
   <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,java,kotlin,c,wordpress,vscode,androidstudio,github,bootstrap,ubuntu&perline=6" />
 </p>
 
-> *Puedes editar la lista de iconos según tus herramientas favoritas. [Ver más opciones aquí](https://skillicons.dev)*
 
 ---
 

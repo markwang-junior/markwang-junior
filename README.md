@@ -109,14 +109,6 @@ Configuración de contenedores **Docker** con **Nginx**.
 
 ---
 
-## 🐍 Gráfico de Contribuciones (Snake)
-
-> **Nota**: Para que esta sección funcione, debes configurar el workflow de [Platane/snk](https://github.com/Platane/snk). Si no, puedes eliminarla.
-
-![Snake Contribution Graph](https://raw.githubusercontent.com/markwang-junior/markwang-junior/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contáctame
 
 <p align="center">

@@ -88,10 +88,6 @@
   <!-- Stats Generales -->
   <img src="https://github-readme-stats.vercel.app/api?username=markwang-junior&show_icons=true&theme=radical&include_all_commits=true" width="48%" alt="GitHub Stats"/>
   
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=markwang-junior&theme=radical&border_radius=5" width="48%" alt="GitHub Streak Stats"/>
-</div>
-
 <div align="center">
   <!-- Lenguajes Más Usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markwang-junior&layout=compact&theme=radical" width="40%" alt="Top Languages">

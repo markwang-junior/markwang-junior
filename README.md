@@ -106,12 +106,6 @@ Algunos datos más sobre mí:
 ### 1. 🛍️ [tiendaonline2024](https://github.com/markwang-junior/tiendaonline2024)
 Aplicación web de venta de móviles con **PHP** y **XAMPP**. Uso de **PhpMyAdmin** para la base de datos y un front en **HTML/CSS**.
 
-### 2. 🅰️ [mi-angular-app](https://github.com/markwang-junior/mi-angular-app)
-Gestión de usuarios con **Angular** y consumo de API.
-
-### 3. 🐳 [custom_nginx](https://github.com/markwang-junior/custom_nginx)
-Configuración de contenedores **Docker** con **Nginx**.
-
 > Explora más proyectos en [mis repositorios](https://github.com/markwang-junior?tab=repositories).
 
 ---

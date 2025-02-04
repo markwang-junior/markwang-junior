@@ -28,7 +28,7 @@
 
 - 💻 **Desarrollador Web** apasionado por crear soluciones innovadoras  
 - 🎓 **Titulado en DAW y DAM**  
-- 🌱 Actualmente profundizando en **Angular** y **Laravel**  
+- 🌱 Actualmente profundizando en **Kotlin** y **Javascript**  
 - 🔧 Me encanta optimizar aplicaciones web para un mejor rendimiento  
 - 🌍 Abierto a oportunidades internacionales y remotas  
 - ⚡ Fuera del código, disfruto de la música y los videojuegos  
@@ -66,8 +66,6 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,angular,docker,nginx,bootstrap,java,kotlin,wordpress,github,ubuntu&perline=6" />
 </p>
 
-> **Otras Tecnologías:** C#, MySQL, etc.  
-> (Ajusta aquí la lista completa según lo que manejas.)
 
 ---
 

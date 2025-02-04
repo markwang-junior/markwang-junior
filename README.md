@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/mark-wang-junior/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:tuemail@ejemplo.com" target="_blank">
+  <a href="mailto:jialewangg.ali@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
@@ -28,7 +28,6 @@
 
 - 💻 **Desarrollador Web** apasionado por crear soluciones innovadoras  
 - 🎓 **Titulado en DAW y DAM**  
-- 🌱 Actualmente profundizando en **Kotlin** y **Javascript**  
 - 🔧 Me encanta optimizar aplicaciones web para un mejor rendimiento  
 - 🌍 Abierto a oportunidades internacionales y remotas  
 - ⚡ Fuera del código, disfruto de la música y los videojuegos  
@@ -124,7 +123,7 @@ Configuración de contenedores **Docker** con **Nginx**.
   <a href="https://www.linkedin.com/in/mark-wang-junior/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@ejemplo.com" target="_blank">
+  <a href="mailto:jialewangg.ali@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>

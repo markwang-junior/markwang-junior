@@ -47,7 +47,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=markwang-junior&show_icons=true&theme=radical&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=markwang-junior&theme=radical" width="48%" alt="GitHub Streak"/>
+</div>
 
 ## 🔥 Proyectos Destacados
 
@@ -69,7 +70,7 @@ Configuración de contenedores Docker con Nginx
   <a href="https://www.linkedin.com/in/mark-wang-junior/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:jialewangg.ali@gmail.com">
+  <a href="mailto:tuemail@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -82,18 +83,3 @@ Configuración de contenedores Docker con Nginx
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=markwang-junior&color=blueviolet" alt="Profile Views"/>
 </p>
-
-<!--
-**markwang-junior/markwang-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
